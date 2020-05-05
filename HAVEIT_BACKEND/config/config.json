@@ -1,0 +1,29 @@
+{
+  "development": {
+  "username": "ubuntu",
+    "password": "haveit",
+    "database": "haveit",
+    "host": "52.78.69.165",
+    "dialect": "mysql",
+    "timezone": "+09:00",
+    "operatorsAliases": false
+},
+  "test": {
+  "username": "root",
+    "password": "haveit",
+    "database": "haveit",
+    "host": "172.26.15.178",
+    "dialect": "mysql",
+    "timezone": "+09:00",
+    "operatorsAliases": false
+},
+  "production": {
+  "username": "root",
+    "password": "haveit",
+    "database": "database_production",
+    "host": "172.26.15.178",
+    "dialect": "mysql",
+    "timezone": "+09:00",
+    "operatorsAliases": false
+}
+}
